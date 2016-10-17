@@ -1,0 +1,33 @@
+.tinyEditorGUI {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+
+/* https://github.com/seiyria/bootstrap-slider/blob/master/css/bootstrap-slider.css */
+
+.slider-selection { 
+  background:"#fff"
+}
+.slider-selection.tick-slider-selection {
+  background:"#fff" 
+}
+.slider-track {
+  background-image:none;
+  background-color:"#fff"
+}
+.slider-track-high {
+  background-image:none;
+  background-color:"#fff"
+}
+.slider-tick {
+  background:"#e2e2e1"
+}
+.slider.slider-disabled .slider-handle {
+  background:"#888"
+}
+.slider.slider-disabled .slider-track {
+  background:"#e2e2e1"
+}
